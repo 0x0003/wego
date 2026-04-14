@@ -18,7 +18,7 @@
             pname = "wego";
             inherit version;
             src = ./.;
-            vendorHash = "sha256-jn8bIl5nAJlHB1Sdth95KhIiW4OQgD10B+Dk4mh756Q=";
+            vendorHash = "sha256-PSl0bGzyG9XBZPi8+YzLNq3JEm7QtmfX0272xOgtbek=";
           };
         });
       devShells = forAllSystems (system:
